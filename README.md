@@ -10,6 +10,8 @@ prompt sent to the model, which is handy for debugging prompt changes.
 > **Note:** This is a learning project, built to get hands-on with running open models
 > locally through the Hugging Face ecosystem. It is not intended for production use.
 
+Demo : https://www.youtube.com/watch?v=4Dwg2OfXaLc
+
 ## How it uses Hugging Face
 
 The [Hugging Face](https://huggingface.co/) ecosystem does most of the heavy lifting:
